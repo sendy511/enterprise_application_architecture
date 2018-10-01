@@ -1,0 +1,16 @@
+*.ipr
+*.iws
+.gradle
+build
+.idea
+classes
+*.iml
+.DS_Store
+log/
+out
+.local
+buildSrc
+*-local.yml
+*-local.xml
+export_data.csv
+src/test/java/com/lenovo/sci/eventmgmt/react
