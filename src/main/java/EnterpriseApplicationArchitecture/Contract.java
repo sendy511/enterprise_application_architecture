@@ -9,4 +9,11 @@ public class Contract {
     private Product product;
     private double revenue;
     private Date signedDate;
+
+    public double recognizedRevenue(Date date){
+        return 0;
+    }
+
+    public void calculateRecognition(){
+    }
 }

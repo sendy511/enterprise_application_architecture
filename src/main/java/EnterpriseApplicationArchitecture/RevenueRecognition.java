@@ -28,6 +28,10 @@ public class RevenueRecognition {
 //            .reduce((x1, x2) -> x1 + x2)
 //            .get();
     }
+
+    public boolean isRecognized(Date date){
+        return 0;
+    }
 }
 
 class RevenueRecognitionRowMapper implements RowMapper<RevenueRecognition> {

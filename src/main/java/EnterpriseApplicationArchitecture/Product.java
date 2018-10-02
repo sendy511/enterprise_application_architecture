@@ -14,4 +14,8 @@ public class Product {
             return null;
     }
 
+    public void calculateRecognization(Contract contract){
+
+    }
+
 }
